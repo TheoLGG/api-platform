@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb0ff1fb-8766-4af5-b954-203c7edfbe86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/api/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/api/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/api/vendor/php-cs-fixer/diff" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/mercure" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/mercure-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/api/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/api/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/api/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/api/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/api/vendor/easyrdf/easyrdf" />
+      <path value="$PROJECT_DIR$/api/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/api/vendor/nelmio/cors-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/composer" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/api/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/api/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/api/vendor/laminas/laminas-eventmanager" />
+      <path value="$PROJECT_DIR$/api/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/api/vendor/league/html-to-markdown" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/api/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/api/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/api/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/api/vendor/webimpress/safe-writer" />
+      <path value="$PROJECT_DIR$/api/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/api/vendor/willdurand/negotiation" />
+      <path value="$PROJECT_DIR$/api/vendor/api-platform/core" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/api/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/api/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/api/vendor/api-platform/schema-generator" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1hXvaalc6NaCp1PaP1z1HD7JZ9d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb0ff1fb-8766-4af5-b954-203c7edfbe86" name="Default Changelist" comment="" />
+      <created>1600170315759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600170315759</updated>
+      <workItem from="1600170316816" duration="172000" />
+      <workItem from="1600170508864" duration="7902000" />
+      <workItem from="1600256007184" duration="180000" />
+      <workItem from="1601968213359" duration="3016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1600174385475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1600174385475" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1600170492961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600170492961" />
+  </component>
+</project>
